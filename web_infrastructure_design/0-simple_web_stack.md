@@ -4,7 +4,7 @@
 
 
 
-![Image](https://ibb.co/bWzmTjT)
+![Image](<a href="https://ibb.co/bWzmTjT"><img src="https://i.ibb.co/gjz9NbN/task-0.png" alt="task-0" border="0"></a>)
 
 
 ## What is Server:
